@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋, I'm Louis T.🕊️</h1>
-<h3 align="center">A student who is engaged in web development.</h3>
+<h1 align="center">Hi, I'm Louis T.🕊️</h1>
+<h2 align="center">A student who is engaged in web development.</h2>
 
 - 💻 I'm currently working on: **LUC**
 
