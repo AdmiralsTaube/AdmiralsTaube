@@ -1,12 +1,14 @@
 <h1 align="center">Louis T.🕊️</h1>
 <h4 align="center">A student who is engaged in web development.</h4>
 
+<div algin="center">
 - 💻 I'm currently working on: **LUC**
 
 - 📖 I’m currently learning **python; js**
 
 - 📫 How to reach me **privat@louist2469.de**
-
+</div>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/louist44710854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="louist44710854" height="30" width="40" /></a>
