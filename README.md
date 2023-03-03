@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Louis T.🕊️</h1>
+<h1 align="center">Louis T.🕊️</h1>
 <h4 align="center">A student who is engaged in web development.</h4>
 
 - 💻 I'm currently working on: **LUC**
