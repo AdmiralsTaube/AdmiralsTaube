@@ -1,7 +1,7 @@
 <h1 align="center">Louis T.🕊️</h1>
 <h4 align="center">A student who is engaged in web development.</h4>
 
-<h5 algin="center">- 💻 I'm currently working on: **LUC**</h5>
+- 💻 I'm currently working on: **LUC**</h5>
 
 - 📖 I’m currently learning **python; js**
 
