@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤A student who is engaged in web development.<br>🌐Website: louist2469.de<br>-----------------------------------------------<br>💻I'm working on: LUC & TIMETABLE-GENERATOR<br>📖 I deepen my in: js; python<br>📧 How to reach me: privat@louist2469.de<br>-----------------------------------------------
+👤A student who is engaged in web development.<br>🌐Website: louist2469.de<br>-----------------------------------------------<br>💻I'm working on: LUC & TIMETABLE-GENERATOR<br>📖 I deepen my knowledge in: js; python<br>📧 How to reach me: privat@louist2469.de<br>-----------------------------------------------
 
 
 ## 🌐 Socials:
