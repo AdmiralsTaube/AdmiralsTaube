@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤A student who is engaged in web development.<br>🌐**Website:** www.louist2469.de<br>-----------------------------------------------<br>📖 **I deepen my knowledge in:** js; python<br>📧 **How to reach me:** privat@louist2469.de<br>-----------------------------------------------
+👤A student who is engaged in web development.<br>🌐**Website:** www.louist2469.de<br>-----------------------------------------------<br>📖 **I deepen my knowledge in:** js; python<br>📧 **How to reach me:** contact@louist2469.de<br>-----------------------------------------------
 
 
 ## 🌐 Socials:
