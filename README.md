@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Louis T.🕊️</h1>
 <h3 align="center">A student who is engaged in web development.</h3>
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
